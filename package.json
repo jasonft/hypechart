@@ -1,0 +1,19 @@
+{
+  "name": "hypechart",
+  "version": "1.0.0",
+  "description": "An open source API to return time machine track data from Hype Machine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonft/hypechart.git"
+  },
+  "author": "jasonft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonft/hypechart/issues"
+  },
+  "homepage": "https://github.com/jasonft/hypechart#readme"
+}
