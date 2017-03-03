@@ -1,4 +1,5 @@
-#hypechart
+
+# Hypechart
 
 *An open source API to return time machine track data from Hype Machine*
 
